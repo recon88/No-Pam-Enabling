@@ -1,0 +1,15 @@
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\bin\x86\Release\net6.0\assets\i18n\default.json
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\bin\x86\Release\net6.0\assets\i18n\fr.json
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\bin\x86\Release\net6.0\assets\i18n\pt.json
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\bin\x86\Release\net6.0\content.json
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\bin\x86\Release\net6.0\manifest.json
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\bin\x86\Release\net6.0\NoPamEnabling.deps.json
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\bin\x86\Release\net6.0\NoPamEnabling.dll
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\bin\x86\Release\net6.0\NoPamEnabling.pdb
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\obj\x86\Release\net6.0\NoPamEnabling.csproj.AssemblyReference.cache
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\obj\x86\Release\net6.0\NoPamEnabling.GeneratedMSBuildEditorConfig.editorconfig
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\obj\x86\Release\net6.0\NoPamEnabling.AssemblyInfoInputs.cache
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\obj\x86\Release\net6.0\NoPamEnabling.AssemblyInfo.cs
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\obj\x86\Release\net6.0\NoPamEnabling.csproj.CoreCompileInputs.cache
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\obj\x86\Release\net6.0\NoPamEnabling.dll
+F:\SOURCE\stardew stuff\Continued Mods\No-Pam-Enabling\obj\x86\Release\net6.0\NoPamEnabling.pdb
